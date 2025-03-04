@@ -85,3 +85,4 @@ git remote -v
 git remote set-url upstream 'https://github.com/freeCodeCamp/learn-sql-by-building-a-student-database-part-2.git/'
 git remote remove https://github.com/bhargesh546/learn-sql-by-building-a-student-database-part-2.git
 ls --color=auto
+clear
